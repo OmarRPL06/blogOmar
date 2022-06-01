@@ -1,0 +1,3 @@
+@include('admin.posts.posts')
+
+
