@@ -1,0 +1,34 @@
+ul.breadcrumb {
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    position: absolute !important;
+    padding: 10px 16px;
+    list-style: none;
+    background-color: #eee;
+    border-radius: 5px;
+}
+
+ul.breadcrumb li {
+    display: inline;
+    font-size: 16px;
+}
+
+ul.breadcrumb li+li:before {
+    padding: 8px;
+    color: hsl(218, 23%, 23%);
+    content: ">\00a0";
+}
+
+ul.breadcrumb li a {
+    color: hsl(218, 23%, 23%);
+    text-decoration: none;
+}
+
+ul.breadcrumb li a:hover {
+    color: hsl(218, 23%, 23%);
+    text-decoration: underline;
+}
+
+.desactived {
+    color: #56924c;
+}
