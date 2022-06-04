@@ -5,8 +5,8 @@
     <div class="hero">
         <div class="container">
             <div class="left">
-                <h1 class="h1">Bienvenido al,<br><b>Blog de deportes</b></h1>
-                <p class="h3">Enterate de lo que sucede en el mundo del deporte</p>
+                <h1 class="h1">Hola Bienvenidos sean a su<br><b>Blog de deportes</b></h1>
+                <p class="h3">Enterate sobre el mundo de deportes</p>
                 <div class="btn-group">
                     <a href="#posts" class="btn btn-primary">Ver Posts</a>
                     <a href="{{ url("/suscribirse") }}" class="btn btn-secondary">Suscribirme</a>
