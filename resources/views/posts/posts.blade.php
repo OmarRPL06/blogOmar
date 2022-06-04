@@ -46,25 +46,25 @@
                         <div class="icon-box">
                             <ion-icon name="football"></ion-icon>
                         </div>
-                        <p>Partidos de Futbol</p>
+                        <p>Liga de Campeones de la UEFA</p>
                     </a>
                     <a href="#" class="topic-btn" id="posts-basquetbol">
                         <div class="icon-box">
                             <ion-icon name="basketball"></ion-icon>
                         </div>
-                        <p>Partidos de Basquetbol</p>
+                        <p>La Premier League</p>
                     </a>
                     <a href="#" class="topic-btn" id="posts-beisbol">
                         <div class="icon-box">
                             <ion-icon name="baseball"></ion-icon>
                         </div>
-                        <p>Partidos de Béisbol</p>
+                        <p>La Liga Santander</p>
                     </a>
                     <a href="#" class="topic-btn" id="posts-tenis">
                         <div class="icon-box">
                             <ion-icon name="tennisball"></ion-icon>
                         </div>
-                        <p>Partidos de Tenis</p>
+                        <p>La Bundesliga</p>
                     </a>
                 </div>
 
