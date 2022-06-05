@@ -5,7 +5,7 @@
     <div class="hero">
         <div class="container">
             <div class="left">
-                <h1 class="h1">Bienvenido al<br><b>"Blog de deportes"</b></h1>
+                <h1 class="h1">Bienvenido al<br><b>"Blog de deportes" ssssssssssssssssssss</b></h1>
                 <p class="h3">Encontraras un mundo deportivo sobre lo que ocurre al dia</p>
                 <div class="btn-group">
                     <a href="#posts" class="btn btn-primary">Ver Posts</a>
