@@ -5,7 +5,7 @@
     <div class="hero">
         <div class="container">
             <div class="left">
-                <h1 class="h1">Bienvenido al<br><b>"Blog de deportes Machos Alfa "</b></h1>
+                <h1 class="h1">Bienvenido al<br><b>"Blog de deportes Machos Alfa"</b></h1>
                 <p class="h3">Encontraras un mundo deportivo</p>
                 <div class="btn-group">
                     <a href="#posts" class="btn btn-primary">Ver Posts</a>
