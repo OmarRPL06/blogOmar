@@ -6,7 +6,7 @@
         <div class="container">
             <div class="left">
                 <h1 class="h1">Bienvenido al<br><b>"Blog de deportes"</b></h1>
-                <p class="h3">Encontraras un mundo deportivo sobre lo que ocurre al dia</p>
+                <p class="h3">Encontraras un mundo deportivo</p>
                 <div class="btn-group">
                     <a href="#posts" class="btn btn-primary">Ver Posts</a>
                     <a href="{{ url("/suscribirse") }}" class="btn btn-secondary">Suscribirme</a>
@@ -46,25 +46,25 @@
                         <div class="icon-box">
                             <ion-icon name="football"></ion-icon>
                         </div>
-                        <p>Liga de Campeones de la UEFA</p>
+                        <p>Partidos de Futbol</p>
                     </a>
                     <a href="#" class="topic-btn" id="posts-basquetbol">
                         <div class="icon-box">
                             <ion-icon name="basketball"></ion-icon>
                         </div>
-                        <p>La Premier League</p>
+                        <p>Partidos de Basquetbol</p>
                     </a>
                     <a href="#" class="topic-btn" id="posts-beisbol">
                         <div class="icon-box">
                             <ion-icon name="baseball"></ion-icon>
                         </div>
-                        <p>La Liga Santander</p>
+                        <p>Partidos de Béisbol</p>
                     </a>
                     <a href="#" class="topic-btn" id="posts-tenis">
                         <div class="icon-box">
                             <ion-icon name="tennisball"></ion-icon>
                         </div>
-                        <p>La Bundesliga</p>
+                        <p>Partidos de Tenis</p>
                     </a>
                 </div>
 
