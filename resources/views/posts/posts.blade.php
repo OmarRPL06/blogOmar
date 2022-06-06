@@ -5,6 +5,7 @@
     <div class="hero">
         <div class="container">
             <div class="left">
+<<<<<<< HEAD
                 <h1 class="h1">Bienvenido al<br><b>"Blog de deportes Hola hola hola"</b></h1>
                 <p class="h3">Encontraras un mundo deportivo sobre lo que ocurre al dia</p>
                 <div class="btn-group">
@@ -46,25 +47,37 @@
                         <div class="icon-box">
                             <ion-icon name="football"></ion-icon>
                         </div>
+<<<<<<< HEAD
+                        <p>Partidos de Futbol</p>
+=======
                         <p>Liga de Campeones de la UEFA</p>
+>>>>>>> 0bb1759a4078465ab2d18e373088408c44d4e520
                     </a>
                     <a href="#" class="topic-btn" id="posts-basquetbol">
                         <div class="icon-box">
                             <ion-icon name="basketball"></ion-icon>
                         </div>
+<<<<<<< HEAD
+                        <p>Partidos de Basquetbol</p>
+=======
                         <p>La Premier League</p>
+>>>>>>> 0bb1759a4078465ab2d18e373088408c44d4e520
                     </a>
                     <a href="#" class="topic-btn" id="posts-beisbol">
                         <div class="icon-box">
                             <ion-icon name="baseball"></ion-icon>
                         </div>
+<<<<<<< HEAD
+                        <p>Partidos de Béisbol</p>
+=======
                         <p>La Liga Santander</p>
+>>>>>>> 0bb1759a4078465ab2d18e373088408c44d4e520
                     </a>
                     <a href="#" class="topic-btn" id="posts-tenis">
                         <div class="icon-box">
                             <ion-icon name="tennisball"></ion-icon>
                         </div>
-                        <p>La Bundesliga</p>
+                        <p>Partidos de Tenis</p>
                     </a>
                 </div>
 
