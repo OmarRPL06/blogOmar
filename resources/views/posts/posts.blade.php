@@ -5,7 +5,6 @@
     <div class="hero">
         <div class="container">
             <div class="left">
-                <h1 class="h1">Bienvenido al<br><b>"Blog de deportes Hola hola hola"</b></h1>
                 <h1 class="h1">Bienvenido al<br><b>"Blog de deportes Hola hola hola Jeronimo Como estas ??"</b></h1>
                 <p class="h3">Encontraras un mundo deportivo sobre lo que ocurre al dia</p>
                 <div class="btn-group">
