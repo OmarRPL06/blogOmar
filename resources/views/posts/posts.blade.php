@@ -5,7 +5,7 @@
     <div class="hero">
         <div class="container">
             <div class="left">
-                <h1 class="h1">Bienvenido al<br><b>"CAMBIO DE PRUEBA DE GIT "</b></h1>
+                <h1 class="h1">Bienvenido al<br><b>"CAMBIO DE PRUEBA DE GIT Omar "</b></h1>
                 <p class="h3">Encontraras un mundo deportivo con las noticias más recientes</p>
                 <div class="btn-group">
                     <a href="#posts" class="btn btn-primary">Ver Posts</a>
@@ -77,10 +77,14 @@
                             <ion-icon name="tennisball"></ion-icon>
                         </div>
 <<<<<<< HEAD
+<<<<<<< HEAD
                         <p>Partidos de Tenis</p>
 =======
                         <p>La Bundesliga</p>
 >>>>>>> 0bb1759a4078465ab2d18e373088408c44d4e520
+=======
+                        <p>Partidos de Tenis</p>
+>>>>>>> d19d2b15d54720214c1206874364d891ce51daf5
                     </a>
                 </div>
 
