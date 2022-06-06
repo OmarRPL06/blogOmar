@@ -46,19 +46,31 @@
                         <div class="icon-box">
                             <ion-icon name="football"></ion-icon>
                         </div>
+<<<<<<< HEAD
                         <p>Partidos de Futbol</p>
+=======
+                        <p>Liga de Campeones de la UEFA</p>
+>>>>>>> 0bb1759a4078465ab2d18e373088408c44d4e520
                     </a>
                     <a href="#" class="topic-btn" id="posts-basquetbol">
                         <div class="icon-box">
                             <ion-icon name="basketball"></ion-icon>
                         </div>
+<<<<<<< HEAD
                         <p>Partidos de Basquetbol</p>
+=======
+                        <p>La Premier League</p>
+>>>>>>> 0bb1759a4078465ab2d18e373088408c44d4e520
                     </a>
                     <a href="#" class="topic-btn" id="posts-beisbol">
                         <div class="icon-box">
                             <ion-icon name="baseball"></ion-icon>
                         </div>
+<<<<<<< HEAD
                         <p>Partidos de Béisbol</p>
+=======
+                        <p>La Liga Santander</p>
+>>>>>>> 0bb1759a4078465ab2d18e373088408c44d4e520
                     </a>
                     <a href="#" class="topic-btn" id="posts-tenis">
                         <div class="icon-box">
