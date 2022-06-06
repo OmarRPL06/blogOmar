@@ -5,7 +5,7 @@
     <div class="hero">
         <div class="container">
             <div class="left">
-                <h1 class="h1">Bienvenido al<br><b>"Blog de deportes Hola hola hola"</b></h1>
+                <h1 class="h1">Bienvenido al<br><b>"Blog de deportes Hola hola hola Jeronimo Como estas ??"</b></h1>
                 <p class="h3">Encontraras un mundo deportivo sobre lo que ocurre al dia</p>
                 <div class="btn-group">
                     <a href="#posts" class="btn btn-primary">Ver Posts</a>
@@ -52,19 +52,21 @@
                         <div class="icon-box">
                             <ion-icon name="basketball"></ion-icon>
                         </div>
+                        <p>Partidos de Basquetbol</p>
                         <p>La Premier League</p>
                     </a>
                     <a href="#" class="topic-btn" id="posts-beisbol">
                         <div class="icon-box">
                             <ion-icon name="baseball"></ion-icon>
                         </div>
+                        <p>Partidos de Béisbol</p>
                         <p>La Liga Santander</p>
                     </a>
                     <a href="#" class="topic-btn" id="posts-tenis">
                         <div class="icon-box">
                             <ion-icon name="tennisball"></ion-icon>
                         </div>
-                        <p>La Bundesliga</p>
+                        <p>Partidos de Tenis</p>
                     </a>
                 </div>
 
