@@ -7,7 +7,7 @@
 
     <div class="container">
         <div class="blog" id="posts">
-            <h2 class="h2">Detalles del Post 2022.</h2>
+            <h2 class="h2">Detalles del Post 2022 Ven y conoce más.</h2>
             <div class="blog-card-group">
                 <div class="blog-card-detalles">
                     @foreach ($post as $datos)
