@@ -5,7 +5,7 @@
     <div class="hero">
         <div class="container">
             <div class="left">
-                <h1 class="h1">Bienvenido al<br><b>"CAMBIO DE GIT PARA MASTERS... AHAHAA"</b></h1>
+                <h1 class="h1">Bienvenido al<br><b>"BLOG DE DEPORTES 2022"</b></h1>
                 <p class="h3">Encontraras un mundo deportivo con las noticias más recientes</p>
                 <div class="btn-group">
                     <a href="#posts" class="btn btn-primary">Ver Posts</a>
@@ -47,32 +47,18 @@
                             <ion-icon name="football"></ion-icon>
                         </div>
                         <p>Partidos de Futbol</p>
-<<<<<<< HEAD
-=======
-                        <p>Liga de Campeones de la UEFA</p>
->>>>>>> 7dc629e1b7745819dcfb06d3191a7fd6e0507311
                     </a>
                     <a href="#" class="topic-btn" id="posts-basquetbol">
                         <div class="icon-box">
                             <ion-icon name="basketball"></ion-icon>
                         </div>
                         <p>Partidos de Basquetbol</p>
-<<<<<<< HEAD
-=======
-                        <p>Partidos de Basquetbol</p>
-                        <p>La Premier League</p>
->>>>>>> 7dc629e1b7745819dcfb06d3191a7fd6e0507311
                     </a>
                     <a href="#" class="topic-btn" id="posts-beisbol">
                         <div class="icon-box">
                             <ion-icon name="baseball"></ion-icon>
                         </div>
                         <p>Partidos de Béisbol</p>
-<<<<<<< HEAD
-=======
-                        <p>Partidos de Béisbol</p>
-                        <p>La Liga Santander</p>
->>>>>>> 7dc629e1b7745819dcfb06d3191a7fd6e0507311
                     </a>
                     <a href="#" class="topic-btn" id="posts-tenis">
                         <div class="icon-box">
